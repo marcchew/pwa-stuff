@@ -3,7 +3,7 @@ const butInstall = document.getElementById('butInstall');
 
 /* Only register a service worker if it's supported */
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/service-worker.js');
+  navigator.serviceWorker.register('https://raw.githubusercontent.com/marcchew/pwa-stuff/blob/main/service-worker.js');
 }
 
 /**
