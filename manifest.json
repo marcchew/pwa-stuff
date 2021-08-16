@@ -7,12 +7,12 @@
   "scope": "./",
   "icons": [
       {
-        "src": "https://github.com/marcchew/pwa-stuff/blob/main/icon-192x192.png",
+        "src": "https://raw.githubusercontent.com/marcchew/pwa-stuff/main/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "https://github.com/marcchew/pwa-stuff/blob/main/icon-512x512.png",
+        "src": "https://raw.githubusercontent.com/marcchew/pwa-stuff/main/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
