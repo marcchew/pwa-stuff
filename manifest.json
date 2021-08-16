@@ -1,7 +1,7 @@
 
 {
-"name": "Food Banks Near Me",
-  "short_name": "Food Banks",
+"name": "Feed Selangor",
+  "short_name": "Feed Selangor",
   "start_url": "/",
   "orientation": "landscape",
   "scope": "./",
