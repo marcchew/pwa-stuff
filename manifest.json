@@ -1,11 +1,7 @@
-
 {
-  "name": "Feed Malaysia",
   "short_name": "Feed Malaysia",
-  "start_url": "https://www.feed-malaysia.com/",
+  "name": "Feed Malaysia",
   "description": "Feed Malaysia",
-  "orientation": "landscape",
-  "scope": "./",
   "icons": [
       {
         "src": "https://raw.githubusercontent.com/marcchew/pwa-stuff/main/icon-192x192.png",
@@ -18,5 +14,7 @@
         "type": "image/png"
       }
   ],
-  "display": "standalone"
+  "start_url": "https://www.feed-malaysia.com/",
+  "display": "standalone",
+  "scope": "/"
 }
