@@ -14,7 +14,7 @@
         "type": "image/png"
       }
   ],
-  "start_url": "/",
+  "start_url": "https://fringe-scythe-game.glitch.me/",
   "display": "standalone",
-  "scope": "/"
+  "scope": "https://fringe-scythe-game.glitch.me/"
 }
