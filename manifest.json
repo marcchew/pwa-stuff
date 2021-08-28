@@ -1,0 +1,20 @@
+{
+  "short_name": "Feed Malaysia",
+  "name": "Feed Malaysia",
+  "description": "Feed Malaysia",
+  "icons": [
+      {
+        "src": "https://raw.githubusercontent.com/marcchew/pwa-stuff/main/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/marcchew/pwa-stuff/main/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+  ],
+  "start_url": "https://www.feed-malaysia.com/",
+  "display": "standalone",
+  "scope": "https://www.feed-malaysia.com/"
+}
