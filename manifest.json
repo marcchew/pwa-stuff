@@ -1,8 +1,9 @@
 
 {
-"name": "Feed Malaysia",
+  "name": "Feed Malaysia",
   "short_name": "Feed Malaysia",
-  "start_url": "/",
+  "start_url": "https://www.feed-malaysia.com/",
+  "description": "Feed Malaysia",
   "orientation": "landscape",
   "scope": "./",
   "icons": [
